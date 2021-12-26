@@ -8,7 +8,7 @@ Mediapipe is a cross-platform library developed by Google that provides amazing 
 MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame.
 Using few of these 21 different landmarks and python scripting finger counting is made possible.
 
-![Hand Landmarks](https://github.com/s-hash-exe/Finger-Counter/blob/master/hand_landmarks.png?raw=true)
+![Hand Landmarks](https://github.com/s-hash-exe/Finger-Counter/blob/master/hand_landmarks.PNG)
 
 ## How to use?
 Step 1:
